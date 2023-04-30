@@ -23,3 +23,8 @@ Welcome to the markdown source for Microsoft's command-line shells and console d
 
 ## License
 Distributed under the Creative Commons Attribution 4.0 International (CC BY 4.0) Public License.
+
+
+
+
+wsl --update
